@@ -1,0 +1,53 @@
+.containter {
+display: grid;
+justify-content: center;
+height: 100vh;
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+  .example-button-row {
+    display: table-cell;
+    width: 490px;
+  }
+
+  .example-card {
+    margin: 10px;
+    width: 30%;
+    justify-content: center;
+    text-align: center;
+  }
+
+.form-number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.list-number {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.list-of-number {
+    display: flex;
+    justify-content: center;
+}
+
+.ml {
+    margin-left: 10px;
+}
+
+.mat-icon {
+    margin: 0 12px;
+}
